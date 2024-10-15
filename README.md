@@ -25,7 +25,7 @@ The project includes both front-end and back-end components, and it works effect
 
 - JWT
 
-<h2> Screen Shot</h2>
+<h2> gif  </h2>
 
 ![](ekran.gif)
 
